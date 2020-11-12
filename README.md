@@ -1,1 +1,3 @@
 # VEA
+# The implementation of VEA is just a practice for learning deeplearning and the corresponding tools, python, tensorflow, keras...
+# The theoretical explication can be found in reference: Doersch, C. (2016). Tutorial on variational autoencoders. arXiv preprint arXiv:1606.05908
